@@ -1,0 +1,41 @@
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Release\MonitorSystem.exe.config
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Release\MonitorSystem.exe
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Release\MonitorSystem.pdb
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Release\canlibCLSNET.dll
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Release\canTrans.dll
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Release\MmTimer.dll
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Release\SecurityAccess.dll
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.Form1.resources
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.Properties.Resources.resources
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.csproj.GenerateResource.Cache
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.exe
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.pdb
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Release\canDriver.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Release\MonitorSystem.exe.config
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Release\MonitorSystem.exe
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Release\MonitorSystem.pdb
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Release\canDriver.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Release\canlibCLSNET.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Release\canTrans.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Release\MmTimer.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Release\SecurityAccess.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.Form1.resources
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.Properties.Resources.resources
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.exe
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.pdb
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Release\MonitorSystem.exe.config
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.exe
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.pdb
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Release\MonitorSystem.exe
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Release\MonitorSystem.pdb
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Release\canDriver.dll
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Release\canlibCLSNET.dll
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Release\canTrans.dll
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Release\MmTimer.dll
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Release\SecurityAccess.dll
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.Form1.resources
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.Properties.Resources.resources
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Release\MonitorSystem.csprojResolveAssemblyReference.cache

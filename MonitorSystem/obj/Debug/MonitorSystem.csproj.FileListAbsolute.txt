@@ -1,0 +1,58 @@
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.exe.config
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.exe
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.pdb
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Debug\canDriver.dll
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Debug\canlibCLSNET.dll
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Debug\canTrans.dll
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Debug\MmTimer.dll
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\bin\Debug\SecurityAccess.dll
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.Form1.resources
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.Properties.Resources.resources
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.csproj.GenerateResource.Cache
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.exe
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.pdb
+C:\Users\CE-005\Documents\Visual Studio 2015\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.exe.config
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.exe
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.pdb
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Debug\canDriver.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Debug\canlibCLSNET.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Debug\canTrans.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Debug\MmTimer.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\bin\Debug\SecurityAccess.dll
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.Form1.resources
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.Properties.Resources.resources
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.exe
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.pdb
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.exe.config
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.exe
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.pdb
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.exe
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.pdb
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Debug\canDriver.dll
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Debug\canlibCLSNET.dll
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Debug\canTrans.dll
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Debug\MmTimer.dll
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\bin\Debug\SecurityAccess.dll
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.Form1.resources
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.Properties.Resources.resources
+C:\Users\CE-005\Desktop\耐久试验\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2017\Projects\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.exe.config
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.exe
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\bin\Debug\MonitorSystem.pdb
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\bin\Debug\canDriver.dll
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\bin\Debug\canlibCLSNET.dll
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\bin\Debug\canTrans.dll
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\bin\Debug\MmTimer.dll
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\bin\Debug\SecurityAccess.dll
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.csprojAssemblyReference.cache
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.Form1.resources
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.Properties.Resources.resources
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.csproj.GenerateResource.cache
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.csproj.CopyComplete
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.exe
+E:\Documents\Visual Studio 2017\Projects\NicolPoilas\MonitorSystem\MonitorSystem\obj\Debug\MonitorSystem.pdb
